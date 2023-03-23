@@ -10,3 +10,7 @@ name = input("What is your name? ")
 
 # Greet the user
 print(f"Hello, {name}!")
+
+print("Hello, World!!!")
+
+print("no more math.")
